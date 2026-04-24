@@ -25,7 +25,7 @@
 sachin = {
     "name"        : "Sachin G S",
     "degree"      : "B.Tech CSE (AI & ML Specialization)",
-    "stage"       : "1st/2nd Year — Building Foundations",
+    "stage"       : "2nd Year — Building Foundations",
     "location"    : "India 🇮🇳",
     "learning"    : ["Python", "Linear Algebra", "ML Fundamentals"],
     "exploring"   : "Neural networks from scratch",
